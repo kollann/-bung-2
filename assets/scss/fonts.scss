@@ -1,0 +1,13 @@
+/* allan-regular - latin */
+@font-face {
+  font-family: 'Allan';
+  font-style: normal;
+  font-weight: 400;
+  src: url('http://localhost/advanced%20frontend%20tecniques/vorlage-ue2/public/fonts/allan-v12-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Allan Regular'), local('Allan-Regular'),
+  url('http://localhost/advanced%20frontend%20tecniques/vorlage-ue2/public/fonts/allan-v12-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('http://localhost/advanced%20frontend%20tecniques/vorlage-ue2/public/fonts/allan-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('http://localhost/advanced%20frontend%20tecniques/vorlage-ue2/public/fonts/allan-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
+  url('http://localhost/advanced%20frontend%20tecniques/vorlage-ue2/public/fonts/allan-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('http://localhost/advanced%20frontend%20tecniques/vorlage-ue2/public/fonts/allan-v12-latin-regular.svg#Allan') format('svg'); /* Legacy iOS */
+}

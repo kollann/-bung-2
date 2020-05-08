@@ -1,0 +1,6 @@
+@mixin list-hoizontal(){
+  display: flex;
+  li {
+    margin: 1em;
+  }
+}
